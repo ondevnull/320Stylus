@@ -1,0 +1,4 @@
+320upStyl
+=========
+
+A tiny as possible boilerplate for rapid websites development using the mobile-first approach. This is built to be used alongside with [stylus](https://github.com/LearnBoost/stylus).
