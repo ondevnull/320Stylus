@@ -1,4 +1,4 @@
-![https://github.com/ghostbar/320Stylus/raw/master/static/logo.png]
+[!](https://github.com/ghostbar/320Stylus/raw/master/static/logo.png)
 
 320Stylus
 =========
