@@ -1,3 +1,5 @@
+![https://github.com/ghostbar/320Stylus/raw/master/static/logo.png]
+
 320Stylus
 =========
 
@@ -12,4 +14,9 @@ Requirements
 Usage
 -----
 
-Just copy `stylesheets/` to your `public_html/` or whatever you call it, run `stylus stylesheets/style.styl` and link from your HTML to `/stylesheets/style.css`.
+1. Take `stylesheets` and copy it to your `public_html/` or whatever you call it.
+1. Run `$ stylus stylesheets/style.styl`
+1. Link the resulting `stylesheets/style.css` to your HTML.
+1. Make changes to anything at `stylesheets/` and re-run steps 2 and 3.
+
+Remember, each change you make to `stylesheets/style.css` will be rewritten with the compiled version thrown by `stylus`, so please make your changes on the `styl` files instead of the `css` directly.
