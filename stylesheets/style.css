@@ -250,6 +250,21 @@ body,
   .row .eightcol,
   .row .ninecol,
   .row .tencol,
+  .row .elevencol,
+  .row .twelvecol {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .row .onecol,
+  .row .twocol,
+  .row .threecol,
+  .row .fourcol,
+  .row .fivecol,
+  .row .sixcol,
+  .row .sevencol,
+  .row .eightcol,
+  .row .ninecol,
+  .row .tencol,
   .row .elevencol {
     margin-right: 3.8%;
     float: left;
